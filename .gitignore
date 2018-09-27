@@ -1,13 +1,14 @@
+.DS_Store
+node_modules
+.idea
+Thumbs.db
 *.bak
-*.db
+*.tem
+*.temp
+*.psd
 *.avi
-*.pdf
-*.ps
-*.mid
-*.midi
-*.mp3
-*.aif
-*.wav
-# Some versions of Finale have a bug and randomly save extra copies of
-# the music source as "<Filename> copy.mus"
-*copy.mus
+*.mp4
+*.rar
+*.zip
+*.ickt
+package-lock.json
